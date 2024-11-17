@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/igor2000xp/JavaScript-tasks)
 
-[StackBlitz]()
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/JavaScript-tasks)
 
 [Course](https://www.udemy.com/course/javascript-ru/?couponCode=KEEPLEARNING)
 
